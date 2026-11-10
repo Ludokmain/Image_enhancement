@@ -7,7 +7,7 @@
 
 ## Installation
 
-From the root folder of the repository:
+From the HW1 folder of the repository:
 
 ```bash
 python -m venv .venv
